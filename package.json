@@ -50,7 +50,7 @@
     "electron-compile": "^6.4.4",
     "electron-squirrel-startup": "^1.0.0",
     "ngx-electron": "^2.1.1",
-    "typeorm": "^0.2.18"
+    "typeorm": "^0.2.25"
   },
   "devDependencies": {
     "babel-plugin-transform-async-to-generator": "^6.24.1",
